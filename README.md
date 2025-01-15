@@ -10,7 +10,7 @@ scikit-learn
 
 ### Usage example
 
-**All Data for training Encoder**
+**BBB Dataset**
 ```sh
 cd ./dataset/raw/cleaned_BBBP.csv
 ```
