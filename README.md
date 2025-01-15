@@ -24,7 +24,7 @@ cd ./loader.py
 ```sh
 cd ./util.py
 ```
-**Training STP-BERT**
+**Training MGT-BERT**
 ```sh
 python ./training_mgt_bert.py
 ```
