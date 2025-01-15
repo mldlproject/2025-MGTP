@@ -12,7 +12,7 @@ scikit-learn
 
 **All Data for training Encoder**
 ```sh
-cd ./dataset/raw/dataset.csv
+cd ./dataset/raw/cleaned_BBBP.csv
 ```
 
 **Encode data**
